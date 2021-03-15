@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Learning_Background_Tasks.iml" filepath="$PROJECT_DIR$/.idea/Learning_Background_Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Background_Tasks.iml" filepath="$PROJECT_DIR$/.idea/modules/Background_Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Background_Tasks.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Background_Tasks.app.iml" />
     </modules>
   </component>
 </project>
